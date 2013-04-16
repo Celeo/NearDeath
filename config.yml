@@ -1,0 +1,23 @@
+threshold: 10
+duration: 15
+effects:
+  speed: true
+  slow: true
+  fast_digging: true
+  slow_digging: true
+  increase_damage: true
+  heal: true
+  harm: false
+  jump: true
+  confusion: true
+  regeneration: true
+  damage_resistance: true
+  fire_resistance: true
+  water_breathing: true
+  invisibility: true
+  blindness: true
+  night_vision: true
+  hunger: true
+  weakness: true
+  poison: false
+  wither: true

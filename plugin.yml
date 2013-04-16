@@ -1,0 +1,10 @@
+name: NearDeath
+version: 1.0.0.0
+author: Celeo
+website: http://www.darktidegames.com/ 
+descriptions: When the player is near death, they activate potions
+main: com.darktidegames.celeo.neardeath.NearDeath
+commands:
+  neardeath:
+    usage: /<command> reload
+    descriptions: Reloads the configuration file
